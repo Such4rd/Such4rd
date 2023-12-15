@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Santiago Mulas</h1>
 <h3 align="center">Graduate in Computer Engineering from the University Complutense of Madrid</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=such4rd&label=Profile%20views&color=0e75b6&style=flat" alt="such4rd" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=such4rd&label=Profile%20views&color=0e75b6&style=flat" alt="such4rd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=such4rd" alt="such4rd" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=such4rd" alt="such4rd" /></a> </p>-->
 
 - 🔭 I’m currently working on **meta4 development on Minsait**
 
