@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=such4rd" alt="such4rd" /></a> </p>-->
 
-- 🔭 I’m currently working on **meta4 development on Minsait**
+- 🔭 I’m currently working on **Meta4 development on Minsait | Indra**
 
-- 🌱 I’m currently learning **Python, Reflex.dev, cibersecurity,machine learning, database**
+- 🌱 I’m currently learning **cibersecurity, machine learning, database**
 
 - 👨‍💻 All of my projects are available at [datajs.es](https://www.datajs.es/)
 
