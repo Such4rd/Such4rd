@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=such4rd" alt="such4rd" /></a> </p>-->
 
-- 🔭 I’m currently working on **Meta4 development on Minsait | Indra**
+- 🔭 I’m currently working on **Software Development on Minsait | Indra**
 
-- 🌱 I’m currently learning **cibersecurity, machine learning, database**
-
-- 👨‍💻 All of my projects are available at [datajs.es](https://www.datajs.es/)
+- 🌱 I’m currently learning **Software developmente, Cibersecurity, Machine Dearning, Database**
 
 - 📫 How to reach me **santiagomarcomulaslopez@gmail.com**
 
